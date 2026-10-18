@@ -321,4 +321,4 @@ RESULT: 4/4 attack stages detected — 0 false positives
 ---
 
 *Oluwaseyi Michael Falode · Cybersecurity & Cloud Security Engineer · Toronto, ON · May 2026*  
-*linkedin.com/in/oluwaseyi-falode · github.com/seyifalode-cmd*
+*https://www.linkedin.com/in/oluwaseyi-falode-bb3b1651 · github.com/seyifalode-cmd*
